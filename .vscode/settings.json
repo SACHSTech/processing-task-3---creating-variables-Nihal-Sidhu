@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\c_ss2\\Documents\\jars\\core.jar"
+    ]
+}
